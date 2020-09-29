@@ -1,3 +1,5 @@
 This is the first file created on Git
 add one
+All is well
+A quick brown fox jumpsover the lazy dog
 thanks:)
